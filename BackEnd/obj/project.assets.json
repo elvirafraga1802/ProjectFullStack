@@ -1527,11 +1527,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\efragalaureano\\Documents\\AcademyTest\\AcademyTest.csproj",
+      "projectUniqueName": "C:\\Users\\efragalaureano\\Documents\\ReactProject\\BackEnd\\AcademyTest.csproj",
       "projectName": "AcademyTest",
-      "projectPath": "C:\\Users\\efragalaureano\\Documents\\AcademyTest\\AcademyTest.csproj",
+      "projectPath": "C:\\Users\\efragalaureano\\Documents\\ReactProject\\BackEnd\\AcademyTest.csproj",
       "packagesPath": "C:\\Users\\efragalaureano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\efragalaureano\\Documents\\AcademyTest\\obj\\",
+      "outputPath": "C:\\Users\\efragalaureano\\Documents\\ReactProject\\BackEnd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\efragalaureano\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1598,7 +1598,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

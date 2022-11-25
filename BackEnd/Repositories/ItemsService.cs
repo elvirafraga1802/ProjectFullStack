@@ -5,7 +5,7 @@ namespace AcademyTest.Repositories
 {
     public class ItemService : IItemsRepository
     {
-        private readonly List<InventoryItem> items = new()    
+        private static List<InventoryItem> items = new()    
         {
             new InventoryItem{Id = Guid.NewGuid(),Name = "Potion", Description = "tall", Quantity = 9},
             new InventoryItem{Id = Guid.NewGuid(),Name = "Iron Sword", Description = "short", Quantity = 50},

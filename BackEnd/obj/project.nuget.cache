@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "373m5fTVl9tCZcJ8GANh++P6mqta3/lAyhz0l+3dV/j98gi/ZY+NfOOkMvp7gL9NeLs1Rn2kka5uGOkBYkv+4A==",
+  "dgSpecHash": "lU3ZVu9MX/z4aVBrMw3HEYE9Mxt9Uj+6fbhKy7Auo7t3PjNlCVPVTKdu7TXoeWozWwGk1yy3jBjPmz/Z1Jf2Mw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\efragalaureano\\Documents\\AcademyTest\\AcademyTest.csproj",
+  "projectFilePath": "C:\\Users\\efragalaureano\\Documents\\ReactProject\\BackEnd\\AcademyTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\efragalaureano\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\efragalaureano\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0\\microsoft.data.sqlite.core.7.0.0.nupkg.sha512",

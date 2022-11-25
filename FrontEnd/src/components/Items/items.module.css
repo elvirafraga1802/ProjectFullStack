@@ -1,0 +1,15 @@
+.table {
+  width: 50%;
+}
+
+.th{
+    background-color: #04AA6D;
+    color: white;
+    height: 70px;
+}
+.td{
+    text-align: center;
+}
+.tr:hover{
+    background-color: coral;
+}

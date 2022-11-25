@@ -2,7 +2,7 @@ import React, { Fragment, useState } from "react";
 import Home from "../Home/Home";
 import { Table, Button, Modal, Container, Form } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
-import classes from "./users.module.css";
+
 
 const User = (props) => {
   const [show, setShow] = useState(false);
@@ -15,6 +15,7 @@ const User = (props) => {
       <Home />
       <Container>
         <br />
+       
         <Button variant="primary" onClick={handleShow}>
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -72,15 +73,15 @@ const User = (props) => {
         </Modal>
         <br />
         <br />
-        <Table className={classes.table} striped bordered hover>
+        <Table striped bordered hover>
           <thead>
             <tr>
-              <th className={classes.th}>UserID</th>
-              <th className={classes.th}>Name</th>
-              <th className={classes.th}>Email</th>
-              <th className={classes.th}>Phone</th>
-              <th className={classes.th}>Update</th>
-              <th className={classes.th}>Delete</th>
+              <th>UserID</th>
+              <th>Name</th>
+              <th>Email</th>
+              <th>Phone</th>
+              <th>Update</th>
+              <th>Delete</th>
             </tr>
           </thead>
           <tbody>
@@ -109,7 +110,7 @@ const User = (props) => {
                 </Button>
               </td>
               <td>
-                <Button className={classes.button} variant="danger">
+                <Button variant="danger">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="16"
@@ -149,7 +150,7 @@ const User = (props) => {
                 </Button>
               </td>
               <td>
-                <Button className={classes.button} variant="danger">
+                <Button variant="danger">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="16"
@@ -189,7 +190,7 @@ const User = (props) => {
                 </Button>
               </td>
               <td>
-                <Button className={classes.button} variant="danger">
+                <Button variant="danger">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="16"

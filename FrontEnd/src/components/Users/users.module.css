@@ -1,15 +1,17 @@
-.table{
-    margin-right: 2rem;
-    margin-left: 2rem;
-    max-width: 60%;
-    text-align: center;
-    align-content: center;
-    
-}
-
-.th{
+.table {
+    width: 60%;
+    align-items: center;
+  }
+  .tr{
     background-color: #04AA6D;
-    
-    
-}
+  }
+  
+  .th{
+      color: white;
+      height: 40px;
+  }
+  .td{
+      text-align: center;
+  }
+  
 
